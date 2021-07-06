@@ -49,6 +49,5 @@ def main():
             print("Invalid input data")
 
       
-if(__name__ !="main"):
-    main()
+main()
 
